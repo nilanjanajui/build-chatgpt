@@ -1,0 +1,8 @@
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.npz
+datasets/
+checkpoints/
