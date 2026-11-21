@@ -6,3 +6,6 @@
 *.npz
 datasets/
 checkpoints/
+__pycache__/
+.venv/
+.ipynb_checkpoints/
