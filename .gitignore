@@ -9,3 +9,11 @@ checkpoints/
 __pycache__/
 .venv/
 .ipynb_checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.npz
+datasets/
+checkpoints/
